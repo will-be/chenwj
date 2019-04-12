@@ -1,4 +1,3 @@
-study
+cwj个人网站
 =====
-
-demos for coding study
+仅供个人学习使用
