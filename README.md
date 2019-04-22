@@ -1,5 +1,5 @@
 # 最新根文件系统
-=====
+
 ## CAVD600 硬件版本2.0
 * 阿尔法
 	* rootfs-cavd600gs-yocto-alpha-v3.0.48-20190422.tar.bz2
@@ -44,3 +44,6 @@
 
 ## 紫外zw100
 * rootfs-zw100-alpha-v3.0.17-20181012.tar.bz2
+
+----
+Mon Apr 22 15:23:46 CST 2019
