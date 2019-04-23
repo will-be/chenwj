@@ -2,11 +2,11 @@
 * 阿尔法
 	* rootfs-cavd600gs-yocto-alpha-v3.0.48-20190422.tar.bz2
 * 美盛
-	* rootfs-cavd600gs-yocto-mission-v3.0.40-20180822.tar.bz2
+	* rootfs-cavd600gs-yocto-mission-v3.0.42-20190423.tar.bz2
 * 空白
 	* rootfs-cavd600gs-yocto-blank-v3.0.42-20180824.tar.bz2
 * 天华
-	* rootfs-cavd600gs-yocto-tianhua-v3.0.39-20180822.tar.bz2
+	* rootfs-cavd600gs-yocto-tianhua-v3.0.41-20190423.tar.bz2
 
 ## CAVD600 硬件版本1.5/1.0
 * 阿尔法
