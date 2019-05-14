@@ -25,7 +25,8 @@
 	* 根文件系统: rootfs-cavd600-yocto-huayun-v3.0.27-20181116.tar.bz2
 * 立谱征
 	* 根文件系统: rootfs-cavd600g-yocto-lipuzheng-v3.0.29-20190411.tar.bz2
-
+* 华创电子
+	* 根文件系统: rootfs-cavd600g-yocto-huachuang-v3.0.30-20190514.tar.bz2
 ## S610
 * 阿尔法
 	* 根文件系统: rootfs-s610-alpha-v3.2.8-20180423.tar.bz2
