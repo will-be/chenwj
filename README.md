@@ -1,6 +1,6 @@
 ## CAVD600 硬件版本2.0
 * 阿尔法
-	* 根文件系统: rootfs-cavd600gs-yocto-alpha-v3.0.48-20190422.tar.bz2
+	* 根文件系统: rootfs-cavd600gs-yocto-alpha-v3.0.49-20190518.tar.bz2
 	* 烧写工具： cavd600gs-alpha-系统烧写工具-v3.0.48-v3.5.7-20190430.zip
 * 美盛
 	* 根文件系统: rootfs-cavd600gs-yocto-mission-v3.0.42-20190423.tar.bz2
@@ -12,7 +12,7 @@
 
 ## CAVD600 硬件版本1.5/1.0
 * 阿尔法
-	* 根文件系统: rootfs-cavd600g-yocto-alpha-v3.0.29-20190505.tar.bz2
+	* 根文件系统: rootfs-cavd600g-yocto-alpha-v3.0.30-20190521.tar.bz2
 * 美盛
 	* 根文件系统: rootfs-cavd600-yocto-mission-v3.0.25-20180816.tar.bz2
 * 空白
