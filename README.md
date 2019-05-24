@@ -9,6 +9,8 @@
 * 天华
 	* 根文件系统: rootfs-cavd600gs-yocto-tianhua-v3.0.41-20190423.tar.bz2
 	* 烧写工具：cavd600gs-tianhua-系统烧写工具-v3.0.41-v3.5.5-20190429.zip
+* 头戴(阿尔法)
+	* 根文件系统：rootfs-cavd600gs_td-yocto-alpha-v3.0.45-20190419.tar.bz2
 
 ## CAVD600 硬件版本1.5/1.0
 * 阿尔法
