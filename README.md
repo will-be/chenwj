@@ -1,7 +1,14 @@
 ## CAVD600 硬件版本2.0
 * 阿尔法
-	* 根文件系统: rootfs-cavd600gs-yocto-alpha-v3.0.49-20190518.tar.bz2
-	* 烧写工具： cavd600gs-alpha-系统烧写工具-v3.0.48-v3.5.7-20190430.zip
+	* 稳定版
+		* 根文件系统: rootfs-cavd600gs-yocto-alpha-v3.0.49-20190518.tar.bz2
+		* 烧写工具： cavd600gs-alpha-系统烧写工具-v3.0.48-v3.5.7-20190430.zip
+	* 测试版
+		* 根文件系统: rootfs-cavd600gs-yocto-alpha-v3.0.51-20190610.tar.bz2
+		* 烧写工具： cavd600gs-alpha-系统烧写工具-v3.0.51-v3.5.7-20190610.zip
+		* 备注：
+			* 针对新emmc芯片升级的根文件系统,支持emmc5.1协议
+			* 向后兼容旧版本emmc芯片
 * 美盛
 	* 根文件系统: rootfs-cavd600gs-yocto-mission-v3.0.42-20190423.tar.bz2
 * 空白
