@@ -31,9 +31,11 @@
 ## S610
 * 阿尔法
 	* 根文件系统: rootfs-s610-alpha-v3.2.8-20180423.tar.bz2
+* 空白 
+	* 根文件系统: rootfs-s610-blank-v3.2.9-20180507.tar.bz2
 * 美盛
 	* 根文件系统: rootfs-s610-mission-v3.2.12-20190130.tar.bz2
-* 空白
+* 天华 
 	* 根文件系统: rootfs-s610-tianhua-v3.2.11-20180816.tar.bz2
 * 红相
 	* 根文件系统: rootfs-s610-hongxiang-v3.2.13-20190403.tar.bz2
