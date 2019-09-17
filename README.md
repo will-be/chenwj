@@ -1,15 +1,17 @@
 ## CAVD600 硬件版本2.0
 * 阿尔法
-	* 根文件系统: rootfs-cavd600gs-yocto-alpha-v3.0.53-20190731.tar.bz2
+	* 根文件系统: rootfs-cavd600gs-yocto-alpha-v3.0.55-20190816.tar.bz2
 * 美盛
-	* 根文件系统: rootfs-cavd600gs-yocto-mission-v3.0.44-20190731.tar.bz2
+	* 根文件系统: rootfs-cavd600gs-yocto-mission-v3.0.55-20190917.tar.bz2
 * 空白
-	* 根文件系统: rootfs-cavd600gs-yocto-blank-v3.0.44-20190731.tar.bz2
+	* 根文件系统: rootfs-cavd600gs-yocto-blank-v3.0.55-20190917.tar.bz2
 * 天华
-	* 根文件系统: rootfs-cavd600gs-yocto-tianhua-v3.0.43-20190731.tar.bz2
+	* 根文件系统: rootfs-cavd600gs-yocto-tianhua-v3.0.55-20190917.tar.bz2
 * 珠海中瑞 
 	* 根文件系统: rootfs-cavd600gs-yocto-zhongrui-v3.0.55-20190905.tar.bz2
-* 头戴(阿尔法)
+
+## CAVD600 硬件版本2.0 头戴机器
+* 阿尔法
 	* 根文件系统：rootfs-cavd600gs_td-yocto-alpha-v3.0.46-20190529.tar.bz2
 
 ## CAVD600 硬件版本1.5/1.0
@@ -74,9 +76,10 @@
   * ALPHA		v3.2.3
   
 ## cavd300gs根文件系统版本
-  * mission		v3.1.1
-  * ALPHA		v3.1.1
-  
+  * 美盛
+	  * 根文件系统: rootfs-cavd300gs-yocto-alpha-v3.1.1-20190905.tar.bz2
+  * 阿尔法
+	  * 根文件系统: rootfs-cavd300gs-yocto-mission-v3.1.1-20190905.tar.bz2
 ## C1000根文件系统版本
   * v1.1.0
 
