@@ -23,17 +23,6 @@
 	* 根文件系统: rootfs-cavd600g-yocto-blank-v3.0.25-20190803.tar.bz2
 * 天华
 	* 根文件系统: rootfs-cavd600g-yocto-tianhua-v3.0.27-20190802.tar.bz2
-
-* 华云
-	* 根文件系统: rootfs-cavd600g-yocto-huayun-v3.0.27-20181116.tar.bz2
-* 谷源
-	* 根文件系统: rootfs-cavd600-yocto-guyuan-v3.0.23-20171023.tar.bz2
-* 南瑞
-	* 根文件系统: rootfs-cavd600-nari-v3.0.27-20180326.tar.bz2
-* 立谱征
-	* 根文件系统: rootfs-cavd600g-yocto-lipuzheng-v3.0.29-20190411.tar.bz2
-* 华创电子
-	* 根文件系统: rootfs-cavd600g-yocto-huachuang-v3.0.30-20190514.tar.bz2
 * 珠海中瑞 
 	* 根文件系统: rootfs-cavd600-yocto-zhongrui-v3.0.31-20190906.tar.bz2
 ## S610
@@ -63,8 +52,8 @@
 
 --------------------------------------------------------------------------------
 ## cavd300根文件系统版本
-  * mission		v3.1.1
-  * ALPHA		v3.1.2
+  * mission		v3.1.9
+  * ALPHA		v3.1.8
   * 谷元		v3.1.3
   * 南瑞		v3.1.4
   * 天华		v3.1.5
