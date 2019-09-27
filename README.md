@@ -27,19 +27,19 @@
 	* 根文件系统: rootfs-cavd600-yocto-zhongrui-v3.0.31-20190906.tar.bz2
 ## S610
 * 阿尔法
-	* 根文件系统: rootfs-s610-yocto-alpha-v3.3.1-20190807.tar.bz2
+	* 根文件系统: rootfs-s610-yocto-alpha-v3.3.2-20190925.tar.bz2
 * 空白 
-	* 根文件系统: rootfs-s610-yocto-blank-v3.3.1-20190809.tar.bz2
+	* 根文件系统: rootfs-s610-yocto-blank-v3.3.2-20190927.tar.bz2
 * 美盛
-	* 根文件系统: rootfs-s610-yocto-mission-v3.3.0-20190806.tar.bz2
+	* 根文件系统: rootfs-s610-yocto-mission-v3.3.2-20190925.tar.bz2
 * 天华 
-	* 根文件系统: rootfs-s610-yocto-tianhua-v3.3.1-20190809.tar.bz2
+	* 根文件系统: rootfs-s610-yocto-tianhua-v3.3.2-20190927.tar.bz2
 * 红相
-	* 根文件系统: rootfs-s610-yocto-hongxiang-v3.3.1-20190809.tar.bz2
+	* 根文件系统: rootfs-s610-yocto-hongxiang-v3.3.2-20190927.tar.bz2
 
 ## S310
 * 阿尔法
-	* 根文件系统: rootfs-s310-yocto-alpha-v3.3.0-20190906.tar.bz2
+	* 根文件系统: rootfs-s310-yocto-alpha-v3.3.1-20190927.tar.bz2
 	
 ## M610
 * 根文件系统: rootfs-m610-yocto-v3.0.27-20190812.tar.bz2
